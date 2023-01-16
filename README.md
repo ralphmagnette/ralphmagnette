@@ -34,4 +34,4 @@ A passionate and eager to learn young man who does not shy away from a challenge
 
 ### Badges
 
-<a href="https://github.com/ralphmagnette" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ralphmagnette&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralphmagnette&exclude_repo=github-readme-stats,ralphmagnette.github.io)](https://github.com/ralphmagnette/github-readme-stats)
