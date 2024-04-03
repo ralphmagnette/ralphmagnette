@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Ralph Magnette
 ======================================================================================================================================
 
-Software Developer 🤓
+Frontend Developer 🤓
 ---------------------
 
-A passionate and eager to learn young man who does not shy away from a challenge. I value finishing a project and seeing the result, that's why I often go the extra mile for projects even though it might bring me more work than originally planned.
+I am an individual who thrives on challenges and possesses a steadfast commitment to seeing projects through to completion. I consistently demonstrate a proactive approach to my work, willingly investing extra effort to ensure successful outcomes. Collaboration is at the core of my work ethic, as I actively engage with my team and project leaders.
 
-* 🌍  I'm based in Kinrooi, Belgium
+* 🌍  I'm based in Belgium
 * ✉️  You can contact me at [ralphmagnette@hotmail.com](mailto:ralphmagnette@hotmail.com)
 
 ### Skills
