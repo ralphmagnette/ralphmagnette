@@ -7,7 +7,7 @@ Frontend Developer 🤓
 I am an individual who thrives on challenges and possesses a steadfast commitment to seeing projects through to completion. I consistently demonstrate a proactive approach to my work, willingly investing extra effort to ensure successful outcomes. Collaboration is at the core of my work ethic, as I actively engage with my team and project leaders.
 
 * 🌍  I'm based in Belgium
-* ✉️  You can contact me at [ralphmagnette@hotmail.com](mailto:ralphmagnette@hotmail.com)
+* ✉️  You can contact me at [ralphmagnette@magforge.dev](mailto:ralphmagnette@magforge.dev)
 
 ### Skills
 
