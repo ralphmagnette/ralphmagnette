@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Ralph Magnette
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Ralph Magnette
 ======================================================================================================================================
 
 Frontend Developer 🤓
@@ -12,22 +12,34 @@ My expertise lies in frontend frameworks, particularly Angular and React. I find
 
 ### Skills
 
-![JavaScript](https://img.shields.io/badge/-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-3178C6?logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-1572B6?logo=css3&logoColor=white)
-![Angular](https://img.shields.io/badge/-DD0031?logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-000000?logo=nextdotjs&logoColor=white)
-![C#](https://img.shields.io/badge/-239120?logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/-ED8B00?logo=openjdk&logoColor=white)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+</p>
 
 ### Socials
 
-[![GitHub](https://img.shields.io/badge/-181717?logo=github&logoColor=white)](https://github.com/ralphmagnette)
-[![LinkedIn](https://img.shields.io/badge/-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/ralphmagnette)
-[![Facebook](https://img.shields.io/badge/-1877F2?logo=facebook&logoColor=white)](https://facebook.com/ralphmagnette)
-[![Instagram](https://img.shields.io/badge/-E4405F?logo=instagram&logoColor=white)](https://instagram.com/ralphmagnette)
+<p>
+  <a href="https://github.com/ralphmagnette">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/ralphmagnette">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
+  </a>
+  <a href="https://facebook.com/ralphmagnette">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="40" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/ralphmagnette">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" alt="Instagram" />
+  </a>
+</p>
 
 ### Badges
 
