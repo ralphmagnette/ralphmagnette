@@ -28,16 +28,16 @@ My expertise lies in frontend frameworks, particularly Angular and React. I find
 
 <p>
   <a href="https://github.com/ralphmagnette">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" style="vertical-align: middle; margin-right: 6px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/ralphmagnette">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" style="vertical-align: middle; margin-right: 6px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
   </a>
   <a href="https://facebook.com/ralphmagnette">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="40" alt="Facebook" style="vertical-align: middle; margin-right: 6px;" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="40" alt="Facebook" />
   </a>
   <a href="https://instagram.com/ralphmagnette">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" alt="Instagram" style="vertical-align: middle;" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" alt="Instagram" />
   </a>
 </p>
 
