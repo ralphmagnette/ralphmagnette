@@ -27,16 +27,16 @@ My expertise lies in frontend frameworks, particularly Angular and React. I find
 ### Socials
 
 <p>
-  <a href="https://github.com/ralphmagnette">
+  <a href="https://github.com/ralphmagnette" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/ralphmagnette">
+  <a href="https://linkedin.com/in/ralphmagnette" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
   </a>
-  <a href="https://facebook.com/ralphmagnette">
+  <a href="https://facebook.com/ralphmagnette" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="40" alt="Facebook" />
   </a>
-  <a href="https://instagram.com/ralphmagnette">
+  <a href="https://instagram.com/ralphmagnette" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" alt="Instagram" />
   </a>
 </p>
